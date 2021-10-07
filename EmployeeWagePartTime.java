@@ -16,3 +16,4 @@ public class EmployeeWageCalculate {
             
     }
 }
+// Employee Check Full time or Half time Working
