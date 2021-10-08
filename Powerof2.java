@@ -15,3 +15,4 @@ public class PowerOf2 {
         }
     }
 }
+// Powet Of Two
